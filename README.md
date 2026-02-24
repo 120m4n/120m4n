@@ -30,8 +30,8 @@ Trabajo en [**Electrosoftware**](https://github.com/120m4n) construyendo herrami
 
 ### Sistemas Eléctricos GIS (Electrosoftware · Energis)
 Desarrollo y mantenimiento del sistema **Energis** — plataforma GIS para distribución eléctrica en Colombia (ESSA) y Honduras (EEH). Incluye gestión de cartografía de detalle, actualización masiva de coordenadas, interfaces Hitachi y procesamiento de infraestructura de red.
-![disponibilidad](./images/cartografia.png)
 
+![disponibilidad](./images/cartografia.png)
 
 
 ### Sistema para validar la disponibilidad de red según  resolución CREG 174 de 2021.
